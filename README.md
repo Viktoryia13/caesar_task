@@ -32,6 +32,8 @@ input.txt This is secret. Message about "_" symbol!
 
 output.txt Sghr hr rdbqds. Ldrrzfd zants "_" rxlank!
 
-Очень тороплюсь, позже распишу какие пункты реализованы
+Базовая реализация (кроме 5 ого пункта) + продвинутая реализация
+Очень спешила, поэтому где-то могут быть недочеты, обратная связь приветстуется. 
 
-По вопросам связь со мной возможна в telegram @vika_coyote
+Связь со мной возможна в telegram @vika_coyote
+email viktoryiacoyote@gmail.com
